@@ -1,4 +1,5 @@
 **Brain MRI Images Classification using CNN**
+
 **Overview**
 This project implements a Convolutional Neural Network (CNN) to classify brain MRI images. The model helps in detecting various brain conditions by analyzing MRI scans. The dataset consists of labeled MRI images, and the CNN is trained to differentiate between different categories.
 
